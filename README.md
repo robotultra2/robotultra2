@@ -8,15 +8,9 @@
 <div align="center">
   <p align="center">
     
-- 🔭 I’m currently working on [**Queen-Anya**](https://github.com/comming-soon)
+- 👻 I’m currently working on [**Queen-Anya-comming-soon**](https://github.com/comming-soon)
 
-- 💬 Ask me about [**ME**](comming-soon)
-
-- 📫 How to reach [**ME**](https://wa.me/94711449492)
-
-- ⚡ Fun fact [**I THINK IAM VERY HAPPY**](https://c.tenor.com/8KpKwMUaYREAAAAi/not-really-ryan-fluff-bruce.gif)
-
-- 💫 My [**WEBSIT**](https://toxicturbo.vercel.app)
+- 💫 My [**WEBSIT FOr Comming-soon**](comming_soon)
 
 
 ![TURBOHYPER](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
@@ -24,7 +18,7 @@
  ### My Projects
           
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=TURBOHYPER&repo=Toxic-Alexa&theme=nightowl)](https://github.com/TURBOHYPER/Toxic-Alexa)
-
+ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ
 
 
 
