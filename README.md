@@ -10,9 +10,9 @@
     
 - 🔭 I’m currently working on [**Queen-Anya**](https://github.com/comming-soon)
 
-- 💬 Ask me about [**ME**](https://toxicturbo.vercel.app/index-me.html)
+- 💬 Ask me about [**ME**](comming-soon)
 
-- 📫 How to reach [**ME**](https://wa.me/916380260672)
+- 📫 How to reach [**ME**](https://wa.me/94711449492)
 
 - ⚡ Fun fact [**I THINK IAM VERY HAPPY**](https://c.tenor.com/8KpKwMUaYREAAAAi/not-really-ryan-fluff-bruce.gif)
 
