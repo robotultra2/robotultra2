@@ -13,12 +13,12 @@
 - 💫 My [**WEBSIT FOr Comming-soon**](comming_soon)
 
 
-![TURBOHYPER](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
+![ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg)
  
  ### My Projects
           
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=TURBOHYPER&repo=Toxic-Alexa&theme=nightowl)](https://github.com/TURBOHYPER/Toxic-Alexa)
-ᴹᴿ ʜᴇx ᴜʟᴛʀᴀ ᴛᴇᴄʜ
+
 
 
 
